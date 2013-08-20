@@ -1,3 +1,5 @@
+**Note:** ```mongoid_has_arr``` now lives at https://github.com/dsci/mongoid_has_arrr .
+
 ## mongoid_has_arrr
 
 Dead simple Mongoid <=> ActiveRecord associations
